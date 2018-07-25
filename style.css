@@ -1,0 +1,61 @@
+body {
+  background-color: #f5f7fa;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  width: 500px;
+  margin: 30px auto;
+}
+
+#profile_pic {
+  border-radius: 50%;
+}
+
+.icon {
+  font-size: 30px;
+  color: darkgoldenrod;
+}
+
+.hover:hover {
+  color: black;
+}
+
+.img-square {
+border-radius: 4px;
+}
+
+.card {
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 3px;
+  background: white;
+}
+
+.btn-red {
+  background-color: #DD5555;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
